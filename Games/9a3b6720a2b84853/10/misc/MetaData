@@ -1,0 +1,451 @@
+{
+  "boxId" : 87,
+  "boxes" : [
+    {
+      "abandoned" : "false",
+      "created" : "1603561038062",
+      "description" : "",
+      "id" : 88,
+      "isClaimed" : "false",
+      "isFriend" : "false",
+      "isTutorial" : "false",
+      "name" : "",
+      "offensive" : "false",
+      "regionTemplateName" : "CaspianLake",
+      "resources" : {
+        "mayor_Rating" : {
+          "amount" : 0
+        },
+        "simoleons" : {
+          "amount" : 0
+        },
+        "simoleonsForFrontEnd" : {
+          "amount" : 50000
+        },
+        "total_Residential" : {
+          "amount" : 0
+        }
+      },
+      "status" : "ACTIVE",
+      "ticks" : 0,
+      "type" : "CITY",
+      "uid" : 1026,
+      "updated" : "1603561038062"
+    },
+    {
+      "abandoned" : "false",
+      "created" : "1603561038062",
+      "creator" : {
+        "avatarImage" : "Razor1911.jpg",
+        "canChat" : true,
+        "cities_count" : 0,
+        "id" : 1911777,
+        "isOnline" : "false",
+        "lastLogin" : 0,
+        "nucleusId" : 1911777,
+        "screenName" : "Razor1911",
+        "tutorialState" : 1
+      },
+      "creatorId" : 1911777,
+      "creatorName" : "Razor1911",
+      "description" : "",
+      "id" : 89,
+      "isClaimed" : "true",
+      "isFriend" : "false",
+      "isTutorial" : "false",
+      "name" : "星光原野",
+      "offensive" : "false",
+      "regionTemplateName" : "CaspianLake",
+      "resources" : {
+        "mayor_Rating" : {
+          "amount" : 79
+        },
+        "simoleons" : {
+          "amount" : 40347
+        },
+        "simoleonsForFrontEnd" : {
+          "amount" : 40347
+        },
+        "total_Residential" : {
+          "amount" : 3723
+        }
+      },
+      "status" : "ACTIVE",
+      "ticks" : 7076,
+      "type" : "CITY",
+      "uid" : 1027,
+      "updated" : "1603567840092"
+    },
+    {
+      "abandoned" : "false",
+      "created" : "1603561038062",
+      "creator" : {
+        "avatarImage" : "Razor1911.jpg",
+        "canChat" : true,
+        "cities_count" : 0,
+        "id" : 1911777,
+        "isOnline" : "false",
+        "lastLogin" : 0,
+        "nucleusId" : 1911777,
+        "screenName" : "Razor1911",
+        "tutorialState" : 1
+      },
+      "creatorId" : 1911777,
+      "creatorName" : "Razor1911",
+      "description" : "",
+      "id" : 90,
+      "isClaimed" : "true",
+      "isFriend" : "false",
+      "isTutorial" : "false",
+      "name" : "半月河岸",
+      "offensive" : "false",
+      "regionTemplateName" : "CaspianLake",
+      "resources" : {
+        "mayor_Rating" : {
+          "amount" : 50
+        },
+        "simoleons" : {
+          "amount" : 1000000
+        },
+        "simoleonsForFrontEnd" : {
+          "amount" : 1000000
+        },
+        "total_Residential" : {
+          "amount" : 0
+        }
+      },
+      "status" : "ACTIVE",
+      "ticks" : 10,
+      "type" : "CITY",
+      "uid" : 1028,
+      "updated" : "1603567784034"
+    },
+    {
+      "abandoned" : "false",
+      "created" : "1603561038062",
+      "description" : "",
+      "id" : 91,
+      "isClaimed" : "false",
+      "isFriend" : "false",
+      "isTutorial" : "false",
+      "name" : "",
+      "offensive" : "false",
+      "regionTemplateName" : "CaspianLake",
+      "resources" : {
+        "mayor_Rating" : {
+          "amount" : 0
+        },
+        "simoleons" : {
+          "amount" : 0
+        },
+        "simoleonsForFrontEnd" : {
+          "amount" : 50000
+        },
+        "total_Residential" : {
+          "amount" : 0
+        }
+      },
+      "status" : "ACTIVE",
+      "ticks" : 0,
+      "type" : "CITY",
+      "uid" : 1029,
+      "updated" : "1603561038062"
+    },
+    {
+      "abandoned" : "false",
+      "created" : "1603561038062",
+      "description" : "",
+      "id" : 92,
+      "isClaimed" : "false",
+      "isFriend" : "false",
+      "isTutorial" : "false",
+      "name" : "",
+      "offensive" : "false",
+      "regionTemplateName" : "CaspianLake",
+      "resources" : {
+        "mayor_Rating" : {
+          "amount" : 0
+        },
+        "simoleons" : {
+          "amount" : 0
+        },
+        "simoleonsForFrontEnd" : {
+          "amount" : 50000
+        },
+        "total_Residential" : {
+          "amount" : 0
+        }
+      },
+      "status" : "ACTIVE",
+      "ticks" : 0,
+      "type" : "CITY",
+      "uid" : 1030,
+      "updated" : "1603561038062"
+    },
+    {
+      "abandoned" : "false",
+      "created" : "1603561038062",
+      "description" : "",
+      "id" : 93,
+      "isClaimed" : "false",
+      "isFriend" : "false",
+      "isTutorial" : "false",
+      "name" : "",
+      "offensive" : "false",
+      "regionTemplateName" : "CaspianLake",
+      "resources" : {
+        "mayor_Rating" : {
+          "amount" : 0
+        },
+        "simoleons" : {
+          "amount" : 0
+        },
+        "simoleonsForFrontEnd" : {
+          "amount" : 50000
+        },
+        "total_Residential" : {
+          "amount" : 0
+        }
+      },
+      "status" : "ACTIVE",
+      "ticks" : 0,
+      "type" : "CITY",
+      "uid" : 1031,
+      "updated" : "1603561038062"
+    },
+    {
+      "abandoned" : "false",
+      "created" : "1603561038062",
+      "description" : "",
+      "id" : 94,
+      "isClaimed" : "false",
+      "isFriend" : "false",
+      "isTutorial" : "false",
+      "name" : "",
+      "offensive" : "false",
+      "regionTemplateName" : "CaspianLake",
+      "resources" : {
+        "mayor_Rating" : {
+          "amount" : 0
+        },
+        "simoleons" : {
+          "amount" : 0
+        },
+        "simoleonsForFrontEnd" : {
+          "amount" : 50000
+        },
+        "total_Residential" : {
+          "amount" : 0
+        }
+      },
+      "status" : "ACTIVE",
+      "ticks" : 0,
+      "type" : "CITY",
+      "uid" : 1032,
+      "updated" : "1603561038062"
+    },
+    {
+      "abandoned" : "false",
+      "created" : "1603561038062",
+      "description" : "",
+      "id" : 95,
+      "isClaimed" : "false",
+      "isFriend" : "false",
+      "isTutorial" : "false",
+      "name" : "",
+      "offensive" : "false",
+      "regionTemplateName" : "CaspianLake",
+      "resources" : {
+        "mayor_Rating" : {
+          "amount" : 0
+        },
+        "simoleons" : {
+          "amount" : 0
+        },
+        "simoleonsForFrontEnd" : {
+          "amount" : 50000
+        },
+        "total_Residential" : {
+          "amount" : 0
+        }
+      },
+      "status" : "ACTIVE",
+      "ticks" : 0,
+      "type" : "CITY",
+      "uid" : 1033,
+      "updated" : "1603561038062"
+    },
+    {
+      "abandoned" : "false",
+      "created" : "1603561038062",
+      "description" : "",
+      "id" : 96,
+      "isClaimed" : "false",
+      "isFriend" : "false",
+      "isTutorial" : "false",
+      "name" : "",
+      "offensive" : "false",
+      "regionTemplateName" : "CaspianLake",
+      "resources" : {
+        "mayor_Rating" : {
+          "amount" : 0
+        },
+        "simoleons" : {
+          "amount" : 0
+        },
+        "simoleonsForFrontEnd" : {
+          "amount" : 50000
+        },
+        "total_Residential" : {
+          "amount" : 0
+        }
+      },
+      "status" : "ACTIVE",
+      "ticks" : 0,
+      "type" : "CITY",
+      "uid" : 1034,
+      "updated" : "1603561038062"
+    },
+    {
+      "abandoned" : "false",
+      "created" : "1603561038062",
+      "description" : "",
+      "id" : 97,
+      "isClaimed" : "false",
+      "isFriend" : "false",
+      "isTutorial" : "false",
+      "name" : "",
+      "offensive" : "false",
+      "regionTemplateName" : "CaspianLake",
+      "resources" : {
+        "mayor_Rating" : {
+          "amount" : 0
+        },
+        "simoleons" : {
+          "amount" : 0
+        },
+        "simoleonsForFrontEnd" : {
+          "amount" : 50000
+        },
+        "total_Residential" : {
+          "amount" : 0
+        }
+      },
+      "status" : "ACTIVE",
+      "ticks" : 0,
+      "type" : "CITY",
+      "uid" : 1035,
+      "updated" : "1603561038062"
+    }
+  ],
+  "created" : "1603561038062",
+  "creator" : {
+    "avatarImage" : "Razor1911.jpg",
+    "canChat" : true,
+    "cities_count" : 0,
+    "id" : 1911777,
+    "isOnline" : "false",
+    "lastLogin" : 0,
+    "nucleusId" : 1911777,
+    "screenName" : "Razor1911",
+    "tutorialState" : 1
+  },
+  "creatorId" : 1911777,
+  "creatorName" : "Razor1911",
+  "description" : "",
+  "id" : 10,
+  "map" : {
+    "cities" : [
+      {
+        "uid" : "1026",
+        "x" : 4608,
+        "y" : -5376,
+        "z" : -707.200012207031250
+      },
+      {
+        "uid" : "1027",
+        "x" : 1600,
+        "y" : -6720,
+        "z" : -842.90002441406250
+      },
+      {
+        "uid" : "1028",
+        "x" : 1216,
+        "y" : -3904,
+        "z" : -814.299987792968750
+      },
+      {
+        "uid" : "1029",
+        "x" : -1600,
+        "y" : -5632,
+        "z" : -791
+      },
+      {
+        "uid" : "1030",
+        "x" : -4544,
+        "y" : -6528,
+        "z" : -823.59997558593750
+      },
+      {
+        "uid" : "1031",
+        "x" : -5760,
+        "y" : 1792,
+        "z" : -417.50
+      },
+      {
+        "uid" : "1032",
+        "x" : -4736,
+        "y" : 4544,
+        "z" : -170.100006103515620
+      },
+      {
+        "uid" : "1033",
+        "x" : -2112,
+        "y" : 3392,
+        "z" : -411.399993896484370
+      },
+      {
+        "uid" : "1034",
+        "x" : 576,
+        "y" : 3584,
+        "z" : -390.200012207031250
+      },
+      {
+        "uid" : "1035",
+        "x" : 2496,
+        "y" : 640,
+        "z" : -577.799987792968750
+      }
+    ],
+    "greatWorks" : [
+      {
+        "name" : "Region_GreatWorks_Empty",
+        "x" : -7229.600097656250,
+        "y" : -6720.70019531250
+      },
+      {
+        "name" : "Region_GreatWorks_Empty",
+        "x" : -537.700012207031250,
+        "y" : 6079.100097656250
+      }
+    ]
+  },
+  "name" : "猪皮王国",
+  "privacySetting" : "",
+  "sandbox" : true,
+  "sdid" : "1586",
+  "template" : {
+    "boxes" : [],
+    "height" : 4,
+    "key" : "256",
+    "localizedName" : "CaspianLake",
+    "map" : {},
+    "name" : "CaspianLake",
+    "postcard" : "http://s3.amazonaws.com/sc-euwest1-prod-global/images/region_templates/missing_region_template.png",
+    "priority_order" : 14,
+    "status" : "ACTIVE",
+    "width" : 4
+  },
+  "ticks" : 1243,
+  "updated" : "1603567840092"
+}

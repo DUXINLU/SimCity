@@ -1,0 +1,144 @@
+{
+  "boxId" : 12,
+  "boxes" : [
+    {
+      "abandoned" : "false",
+      "created" : "1603532721753",
+      "creator" : {
+        "avatarImage" : "Razor1911.jpg",
+        "canChat" : true,
+        "cities_count" : 0,
+        "id" : 1911777,
+        "isOnline" : "false",
+        "lastLogin" : 0,
+        "nucleusId" : 1911777,
+        "screenName" : "Razor1911",
+        "tutorialState" : 1
+      },
+      "creatorId" : 1911777,
+      "creatorName" : "Razor1911",
+      "description" : "",
+      "id" : 13,
+      "isClaimed" : "true",
+      "isFriend" : "false",
+      "isTutorial" : "false",
+      "name" : "夏日淺灘",
+      "offensive" : "false",
+      "regionTemplateName" : "Tutorial",
+      "resources" : {
+        "mayor_Rating" : {
+          "amount" : 60
+        },
+        "simoleons" : {
+          "amount" : 319157
+        },
+        "simoleonsForFrontEnd" : {
+          "amount" : 320081
+        },
+        "total_Residential" : {
+          "amount" : 1545
+        }
+      },
+      "status" : "ACTIVE",
+      "ticks" : 1092,
+      "type" : "CITY",
+      "uid" : 1026,
+      "updated" : "1603533777652"
+    },
+    {
+      "abandoned" : "false",
+      "created" : "1603532721753",
+      "creator" : {
+        "avatarImage" : "Razor1911.jpg",
+        "canChat" : true,
+        "cities_count" : 0,
+        "id" : 1911777,
+        "isOnline" : "false",
+        "lastLogin" : 0,
+        "nucleusId" : 1911777,
+        "screenName" : "Razor1911",
+        "tutorialState" : 1
+      },
+      "creatorId" : 1911777,
+      "creatorName" : "Razor1911",
+      "description" : "",
+      "id" : 14,
+      "isClaimed" : "true",
+      "isFriend" : "false",
+      "isTutorial" : "false",
+      "name" : "幸運海岸",
+      "offensive" : "false",
+      "regionTemplateName" : "Tutorial",
+      "resources" : {
+        "mayor_Rating" : {
+          "amount" : 54
+        },
+        "simoleons" : {
+          "amount" : 1679333
+        },
+        "simoleonsForFrontEnd" : {
+          "amount" : 1679333
+        },
+        "total_Residential" : {
+          "amount" : 4734
+        }
+      },
+      "status" : "ACTIVE",
+      "ticks" : 434,
+      "type" : "CITY",
+      "uid" : 1027,
+      "updated" : "1603533756168"
+    }
+  ],
+  "claimedBoxes" : [ {}, {}, {} ],
+  "created" : "1603532721753",
+  "creator" : {
+    "avatarImage" : "Razor1911.jpg",
+    "canChat" : true,
+    "cities_count" : 0,
+    "id" : 1911777,
+    "isOnline" : "false",
+    "lastLogin" : 0,
+    "nucleusId" : 1911777,
+    "screenName" : "Razor1911",
+    "tutorialState" : 1
+  },
+  "creatorId" : 1911777,
+  "creatorName" : "Razor1911",
+  "description" : "",
+  "id" : 2,
+  "map" : {
+    "cities" : [
+      {
+        "uid" : "1026",
+        "x" : 1024,
+        "y" : 0,
+        "z" : -772.90002441406250
+      },
+      {
+        "uid" : "1027",
+        "x" : 0,
+        "y" : -6144,
+        "z" : -643.50
+      }
+    ],
+    "greatWorks" : []
+  },
+  "name" : "Tutorial",
+  "privacySetting" : "",
+  "sandbox" : false,
+  "sdid" : "88",
+  "template" : {
+    "boxes" : [],
+    "height" : 4,
+    "key" : "244",
+    "localizedName" : "Tutorial",
+    "map" : {},
+    "name" : "Tutorial",
+    "postcard" : "http://s3.amazonaws.com/sc-euwest1-prod-global/images/region_templates/missing_region_template.png",
+    "status" : "TUTORIAL",
+    "width" : 4
+  },
+  "ticks" : 209,
+  "updated" : "1603533777652"
+}
